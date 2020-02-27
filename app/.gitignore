@@ -1,0 +1,3 @@
+static/images/*
+.vscode
+__pycache__/
